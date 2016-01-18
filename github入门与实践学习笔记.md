@@ -2,6 +2,8 @@ github入门与实践学习笔记
 ======
 
 ## 1. git&GitHub简介
+  - git
+  - GitHub
 
 ## 2. git导入
 
